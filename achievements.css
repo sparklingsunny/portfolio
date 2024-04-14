@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+.btn {
+    height: 40px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: hsla(199, 92%, 31%, 1);
+    border-style: hidden;
+}
+
+a{
+    font-size: 25px;
+    font-family: "Source Sans 3", sans serif;
+    text-decoration: none;
+    color: bisque;
+}
+
+img{
+    width: 40%;
+    height: 40%;
+}
+li{
+    font-family: "Shadows into Light", sans-serif;
+    font-size: 30px;
+    color: black;
+}
+p{
+    font-size: 25px;
+    font-family: "Vesper Libre", serif;
+    font-weight: 300;
+    color: black;
+    font-style: normal;
+}
+h1{
+    font-family: "Shadows into Light", sans-serif;
+    font-size: 60px;
+}

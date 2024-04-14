@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.btn {
+    height: 40px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: hsla(199, 92%, 31%, 1);
+    border-style: hidden;
+}
+
+a{
+    font-size: 25px;
+    font-family: "Source Sans 3", sans serif;
+    text-decoration: none;
+    color: bisque;
+}
